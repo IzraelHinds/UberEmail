@@ -1,0 +1,85 @@
+<mjml>
+  <mj-head>
+    <mj-title>Uber Email</mj-title>
+    <mj-font name="Open Sans" href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600;700&display=swap" />
+  </mj-head>
+  <mj-body background-color="#bbb">
+    <mj-section background-color="#fff">
+      <mj-column padding-left="3px">
+        <mj-image src="https://github.com/IzraelHinds/uber-images/blob/66af72ee48418db51cede4a3a1cbcc385ee1760b/download.png?raw=true" alt="logo" width="100px" align="left"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0px">
+      <mj-column>
+        <mj-image src="https://github.com/IzraelHinds/uber-images/blob/66af72ee48418db51cede4a3a1cbcc385ee1760b/unnamed%20(1).png?raw=true" alt="pasta" padding="0px"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#21d15c">
+      <mj-column>
+        <mj-text align="center" font-family="Open Sans" font-size="35px">$40 off your first order with <br> Uber Eats.</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#21d15c">
+      <mj-column>
+        <mj-text font-family="Open Sans" font-size="24px" align="center">Promo Code: <span style="text-transform: uppercase">heyget40dollas</span>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#21d15c">
+      <mj-column>
+        <mj-button background-color="#000" border-radius="1px" font-size="16px"><a href="#" style="text-decoration:none;color:#fff">Redeem now</a></mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#fff" padding-bottom="30px">
+      <mj-column width="50%">
+        <mj-text font-size="28px" font-family="Open Sans">A special offer for <br>you.</mj-text>
+        <mj-text font-size="16px" line-height="20px"> Whether you're having a quick<br> lunch or treating yourself to dinner,<br> eat well with help with Uber Eats.<br> Try Uber Eats and get $40 off your<br> first order. </mj-text>
+        <mj-text font-size="16px"> Add the promo code before you checkout. <br><strong>HEYGET40DOLLAS</strong>
+        </mj-text>
+      </mj-column>
+      <mj-column>
+        <mj-image src="https://github.com/IzraelHinds/uber-images/blob/66af72ee48418db51cede4a3a1cbcc385ee1760b/unnamed%20(2).png?raw=true" alt="pizza" padding-right="0px"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section padding-top="0px" background-color="#21d15c" padding-bottom="0px">
+      <mj-column background-color="#21d15c" width="75%">
+        <mj-text font-size="38px" padding="34px"><a href="#" style="text-decoration:none; color:#000">Order now !</a></mj-text>
+      </mj-column>
+      <mj-column width="25%" background-color="#000">
+        <mj-text align="right" color="#fff" font-size="50px" padding="34px"><a href="#" style="text-decoration:none; color:#fff">&rarr; </a></mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#fff">
+      <mj-column>
+        <mj-text>*Up to $40 off your first order only. First time users only. Taxes and fees apply. You must recieve this email directly from Uber to be eligible. Offer may not be combined with other offers. Must apply the promo code in-app before completeing order. Delivery Only. Restaurants with limited tracking excluded. US only. Exclusions may apply. Non-transferable.</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#000" padding-left="13px">
+      <mj-group>
+        <mj-column>
+          <mj-text>
+            <a href="#" style="text-decoration:none; color:#fff">Help Center</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="#" style="text-decoration:none;color:#fff">Privacy</a>
+          </mj-text>
+          <mj-text>
+            <a href="#" style="text-decoration:none;color:#fff">Terms</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="#" style="text-decoration:none;color:#fff">Community</a>
+          </mj-text>
+          <mj-text>
+            <a href="#" style="text-decoration:none;color:#fff">Unsubscribe </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="#" style="text-decoration:none;color:#fff">Email Preferences</a>
+          </mj-text>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+    <mj-section background-color="#000">
+      <mj-column>
+        <mj-text color="#fff"> This is a promotional email from Uber Technologies<br> 1455 Market St., San Francisco, CA 94103<br> Uber.com </mj-text>
+      </mj-column>
+      <mj-column>
+        <mj-social icon-size="26px">
+          <mj-social-element name="facebook" href="#" background-color="#000">&nbsp; </mj-social-element>
+          <mj-social-element name="twitter" href="#" background-color="#000">&nbsp; </mj-social-element>
+          <mj-social-element name="instagram" href="#" background-color="#000">&nbsp; </mj-social-element>
+        </mj-social>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
